@@ -1,1 +1,2 @@
 # odin-recipes
+Create 3 Recipes using an index file and a recipe file with 3 children html named after chosen recipes. This practice will help me understand the purpose of p tags, anchor tags, unordered lists, ordered lists, images, relative links, and headings.
